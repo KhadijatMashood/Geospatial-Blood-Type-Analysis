@@ -1,0 +1,36 @@
+git clone https://github.com/KhadijatMashood/Geospatial-Blood-Type-Analysis.git
+cd Geospatial-Blood-Type-Analysis
+
+Geospatial-Blood-Type-Analysis/
+│── README.md  
+│── data/                # Raw and processed datasets
+│── notebooks/           # Jupyter Notebooks
+│── scripts/             # Python scripts for processing
+│── results/             # Visualizations and reports
+│── assets/              # Images and dashboard files
+│── requirements.txt     # Dependencies
+│── LICENSE              # Open-source license
+
+# 🌍 Geospatial Blood Type Analysis  
+Visualizing global blood type distribution using geospatial tools 
+
+📌 Author: Khadijat Mashood  
+📊 Tools: Python, GeoPandas, Folium, Matplotlib, Seaborn  
+
+## 📖 Project Overview  
+Understanding the distribution of blood types globally is crucial for public health, especially for blood donation strategies and emergency planning. This project leverages geospatial analysis to visualize blood type distribution across different regions.  
+
+## 🚀 Key Features  
+✔️ Data Cleaning & Preprocessing: (Pandas, NumPy)  
+✔️ Geospatial Analysis: (GeoPandas, Folium)  
+✔️ Interactive Maps: (Folium, Plotly)  
+✔️ Exploratory Data Analysis: (Seaborn, Matplotlib)  
+
+## 📂 Project Structure  
+pip install -r requirements.txt
+jupyter notebook
+
+git add .
+git commit -m "Initial commit - Geospatial Blood Type Analysis"
+git push origin main
+
